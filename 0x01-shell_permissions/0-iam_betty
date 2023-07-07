@@ -1,2 +1,2 @@
-#!/bin/:qbash
+#!/bin/bash
 su betty

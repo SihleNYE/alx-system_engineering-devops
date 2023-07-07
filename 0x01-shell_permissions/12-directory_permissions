@@ -1,3 +1,2 @@
 #!/bin/bash
 mkdir my_dir
-chmod-R +RWXRXX my_dir
