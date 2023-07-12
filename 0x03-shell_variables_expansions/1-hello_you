@@ -1,3 +1,2 @@
 #!/bin/bash
-export USER=11edfd210806
 echo "hello $USER"
