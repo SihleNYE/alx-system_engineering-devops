@@ -1,1 +1,7 @@
-This repository is all about bash scripting and permissions
+#This repository is all about bash scripting
+---
+##Covered Projects:-
+1. 0x00-shell_basics
+2. 0x01-shell_permissions
+3. 0x02-shell_redirections
+4. 0x03-shell_variables_expansions
