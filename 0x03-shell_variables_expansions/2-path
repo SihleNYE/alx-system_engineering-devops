@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '$PATH/.bash_login'
+echo '$PATH/.bash_profile'
