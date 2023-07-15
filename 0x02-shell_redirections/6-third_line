@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "Julius" ./ iacta
+grep "Julius" ./iacta
