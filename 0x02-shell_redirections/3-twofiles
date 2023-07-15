@@ -3,5 +3,5 @@
 cat ../../../etc/passwd ../../../etc/hosts
 
 =======
-ls -l  /etc/passwd /etc/hosts
+cat ../../../etc/passwd ../../../etc/hosts
 >>>>>>> a92973c2eeb1615e2651b9c674c6f4f1cbc0e0e5
