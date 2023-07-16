@@ -1,11 +1,7 @@
 #!/bin/bash
 <<<<<<< HEAD
-<<<<<<< HEAD
 cat ../../../etc/passwd ../../../etc/hosts
 
 =======
-cat ../../../etc/passwd ../../../etc/hosts
+cat /etc/passwd /etc/hosts
 >>>>>>> a92973c2eeb1615e2651b9c674c6f4f1cbc0e0e5
-=======
-cat ../../../etc/passwd ../../../etc/hosts
->>>>>>> e2fa12d981a4127c5c1edbce3d730d6cf018c962
