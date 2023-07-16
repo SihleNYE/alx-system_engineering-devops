@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '$PATH/etc/bash_login'
+export PATH=$PATH:/action
